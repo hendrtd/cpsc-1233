@@ -50,8 +50,7 @@ there are some very concrete things you can do:
 
 - Use Piazza to ask questions that you have regarding anything in the course.
 - Use Piazza to answer questions and engage with other students in the course.
-- Attend labs, engage with the TA and with your classmates.
-- Attend lecture, ask questions, engage with the instructor and your classmates.
+- Engage with the instructor, TA, and with your classmates.
 - This will allow you to share individual perspectives and ideas that will allow the group to construct understanding that wouldn't have been possible alone.
 
 
