@@ -4,10 +4,9 @@ This activity is designed to give you a first experience with working with Vocar
 
 1. Click the 'Open in new tab' button below to open this activity in Vocareum. (**Note:** You will need to switch back and forth between this tab and the Vocareum tab to read the instructions and then do the work.)
 1. Click on the **My Work** button for this activity.
-1. Click on the **startercode** folder in the left pane.
+1. Click on the **work** (or **startercode**) folder in the left pane.
 1. Click on the source code file `WarEagle.java` in this folder.
-1. Click on the **Download** botton at the top of the left pane.
-1. Download the source code file `WarEagle.java` to your local machine.
+1. Click on the **Download** botton at the top of the left pane and download the source code file `WarEagle.java` to your local machine.
 1. At this point in a real assignment you would perform all the necessary edits on the downloaded source code file to address the assignment requirements.
 1. Click on the **work** folder in the left pane.
 1. Click on the **Upload** button at the top of the left pane.
