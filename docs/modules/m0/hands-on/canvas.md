@@ -9,7 +9,7 @@ Take the following steps to familiarize yourself with Canvas.
 
 1. Click on **Announcements** in the left menu. Make sure you read the announcements already posted and understand where to check back regularly for upcoming course announcements and news.
 
-1. Click on **Syllabus** in the left menu. Read the official course syllabus, paying careful attention to all the course policies and the grading policy in particular. Notice that the bottom part of this page in Canvas contains a chronological list of all course deliverables along with the date and time each is due.
+1. Click on **Syllabus** in the left menu. Read the official course syllabus, paying careful attention to all the course policies and the grading policy in particular. 
 
 1. Click on **Modules** in the left menu. Make sure you are able to navigate through the course via this menu option. Notice the dates when each module is scheduled to open.
 
@@ -31,11 +31,10 @@ Take the following steps to familiarize yourself with Canvas.
 ## Time Zone Setting
 
 Times for all course events (assignment deadlines, exam times, etc.) will be
-set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may
-not correspond to the time zone in which you will be living and studying this
-fall. You are responsible for meeting deadlines in Central Time regardless of
-what your local time zone may be. You may find it helpful to follow the
-instructions linked
+set in US [Central Time](https://www.timeanddate.com/time/zones/ct). You are
+responsible for meeting deadlines in Central Time regardless of what your
+local time zone may be. You may find it helpful to follow the instructions
+linked
 [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
 to have Canvas show deadlines appropriately in your local time zone to avoid
 any confusion.
