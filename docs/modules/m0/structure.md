@@ -23,7 +23,7 @@ The timeboxed organization of the course is as follows. Module 0 begins on the
 first day of classes for the term and ends on the first Sunday of the term.
 Each module 1-7 begins on a Monday and ends on the following Sunday. 
 
-Here is the specific schedule for [Fall B 2020](http://online.auburn.edu/term_calendar).
+Here is the specific schedule for [Spring A 2021](http://online.auburn.edu/term_calendar).
 
 Module | Begin | End
 ------ | ----- | ---
