@@ -225,7 +225,7 @@ The course is organized into eight modules covering the topics below.
 
 - **Module 6**: Hash tables, graphs
 
-- **Module 7**: ~Disjoint sets~
+- **Module 7**: ~~Disjoint sets~~
 
 Module 0 runs from the first day of classes through the first Sunday of the
 term, Module 1 through Module 6 are each allocated one week, and Module 7 runs
@@ -245,15 +245,14 @@ Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedg
 5     | 2/8 - 2/14     | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
 6     | 2/15 - 2/21    | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
 7     | 2/22 - 2/28    | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-8     | 3/1 - 3/2      | M7     | E T          |   |   |    |      
-8     | 3/1 - 3/2      | M7     | ~H A~ E T    |   | ~6~ | ~24~ | ~1, 4~  
+8     | 3/1 - 3/2      | M7     | ~~H A~~ E T    |   | ~~6~~ | ~~24~~ | ~~1, 4~~  
 
 Due to the modified calendar adopted as part of the 
 [Spring 2021 Academic Plan](http://ahealthieru.auburn.edu/_assets/pdf/2021-spring-academic-plan-20201106.pdf),
 Module 7 was shortened significantly. To take this reduced time into account,
 Module 7 will contain no required new content or assignment, and will only
 contain Lab Test 3 and the Final Exam. The eliminated topics and assessments
-are indicated above in ~strikethrough~. More details will be provided in
+are indicated above in ~~strikethrough~~. More details will be provided in
 Canvas as we approach the latter part of the course. 
 
 ---
