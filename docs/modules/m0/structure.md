@@ -27,20 +27,17 @@ Here is the specific schedule for [Fall B 2020](http://online.auburn.edu/term_ca
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon 12 Oct | Sun 18 Oct
-M1 | Mon 19 Oct | Sun 25 Oct
-M2 | Mon 26 Oct | Sun 1 Nov
-M3 | Mon 2 Nov  | Sun 8 Nov
-M4 | Mon 9 Nov  | Sun 15 Nov
-M5 | Mon 16 Nov | Sun 22 Nov
-M6 | Mon 23 Nov | Sun 29 Nov
-M7 | Mon 30 Nov | Sun 6 Dec
+M0 | Mon 11 Jan | Sun 17 Jan
+M1 | Mon 18 Jan | Sun 24 Jan
+M2 | Mon 25 Jan | Sun 31 Jan
+M3 | Mon 1 Feb  | Sun 7 Feb
+M4 | Mon 8 Feb  | Sun 14 Feb
+M5 | Mon 15 Feb | Sun 21 Feb
+M6 | Mon 22 Feb | Sun 28 Feb
+M7 | Mon 1 Mar  | Tue 2 Mar
 
 Module 7 has less content to account for final exam preparation and the
-official last class day (Friday, December 4). Thus, Module 7 is designed to
-allow you to be finished with the entire course by the last day of classes if
-you so choose. But you also have the flexibility to take the full week for
-Module 7 as normal.
+official last class day (Tuesday, March 2). 
 
 # Module Structure
 
