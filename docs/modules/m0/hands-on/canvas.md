@@ -51,5 +51,8 @@ University email address (`userid@auburn.edu`).
 
 ## Dashboard Setting
 
-The Canvas Dashboard can be set to one of three views: *Card View*, *List View*, and *Recent Activity View*. You will want to [configure your Dashboard](https://community.canvaslms.com/t5/Student-Guide/How-do-I-use-the-Dashboard-as-a-student/ta-p/512) to the view that you prefer.
+The Canvas Dashboard can be set to one of three views: *Card View*, *List View*,
+and *Recent Activity View*. You will want to [configure your
+Dashboard](https://community.canvaslms.com/t5/Student-Guide/How-do-I-use-the-Dashboard-as-a-student/ta-p/512)
+to the view that you prefer.
 
