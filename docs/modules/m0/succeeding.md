@@ -70,9 +70,13 @@ Here are some actions that can lead to smart, efficient work:
 
 # Theory and Practice
 
-> Theory and practice are not mutually exclusive; they are intimately connected. They live together and support each other. Computer science is a field where theory and practice come together more than in any other discipline, because of the nature of computing machines.
+> Theory and practice are not mutually exclusive; they are intimately connected.
+> They live together and support each other. Computer science is a field where
+> theory and practice come together more than in any other discipline, because
+> of the nature of computing machines.
 >
-> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) in ["Theory and Practice"](https://doi.org/10.1016/0304-3975(91)90295-D) 
+> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) in ["Theory and
+>   Practice"](https://doi.org/10.1016/0304-3975(91)90295-D) 
 
 You will hopefully come to see and appreciate how theory and practice blend
 and influence and support each other in this course. For now, though, let me
@@ -110,3 +114,4 @@ Here are a few resources on practice:
 - <https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice?>
 - <https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning>
 <!-- - https://www.apa.org/education/k12/practice-acquisition -->
+
