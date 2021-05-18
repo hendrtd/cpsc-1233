@@ -21,6 +21,7 @@ There is quite of bit of material here, so you can jump to a particular section 
 	- [jGRASP](#jgrasp)
 	- [IntelliJ](#intellij)
 	- [Eclipse](#eclipse)
+    - [Visual Studio Code](#visual-studio-code)
 	- [Online IDE](#online-ide-provided-by-vocareum)
 - [Editor + Command Line](#editor--command-line)
 	- [Text Editors](#text-editors)
@@ -67,7 +68,12 @@ While there are many IDEs available for Java, here are some that I can recommend
 
 ### jGRASP
 
-[jGRASP](https://jgrasp.org/) is a lightweight IDE developed at Auburn and used in hundreds of schools across the world. It is designed with education in mind, and strives to be simple but complete. [Object viewers](https://jgrasp.org/viewers.html) are unique to jGRASP and offer dynamic visualization of program execution during debug mode. jGRASP is freely available from [https://jgrasp.org/](https://jgrasp.org/).
+[jGRASP](https://jgrasp.org/) is a lightweight IDE developed at Auburn and used
+in hundreds of schools across the world. It is designed with education in mind,
+and strives to be simple but complete. [Object
+viewers](https://jgrasp.org/viewers.html) are unique to jGRASP and offer dynamic
+visualization of program execution during debug mode. jGRASP is freely available
+from [https://jgrasp.org/](https://jgrasp.org/).
 
 ### IntelliJ
 
@@ -85,7 +91,7 @@ to provide the object viewers from within the IntelliJ environment.
 
 ### Eclipse
 
-[Eclipse](https://www.eclipse.org/), is a large, complex, professional IDE that
+[Eclipse](https://www.eclipse.org/) is a large, complex, professional IDE that
 offers a lot of power and flexibility but, of course, comes with a steep learning 
 curve. Eclipse is freely available 
 from [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
@@ -93,12 +99,22 @@ from [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
 A [jGRASP plugin for Eclipse](https://jgrasp.org/eclipse_plugin.html) is available
 to provide the object viewers from within the Eclipse environment. 
 
+### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com/) is an open-source source
+code editor from Microsoft that has become one of the most popular IDEs in
+recent years. VS Code is highly capable and full-featured while retaining a
+small, easily-used feel. A jGRASP plugin for VS Code is planned for development,
+so all the benefits of jGRASP's object viewers should be available within VS
+Code soon.
+
 ### Online IDE provided by Vocareum
 
-[Vocareum](https://www.vocareum.com/), the cloud-based auto-grading tool that
-we will use in this course, provides a simple IDE. You will be required to use
-this IDE for the lab tests, and you can use this IDE for the programming
-assignments if you like. More details and instructions regarding Vocareum will be provided in a separate activity.
+[Vocareum](https://www.vocareum.com/), the cloud-based auto-grading tool that we
+will use in this course, provides a simple IDE. You will be required to use this
+IDE for the lab tests, and you can use this IDE for the programming assignments
+if you like. More details and instructions regarding Vocareum will be provided
+in a separate activity.
 
 
 ## Editor + Command Line
@@ -107,9 +123,12 @@ While IDEs can provide convenience and power, there are reasons that you might
 want to use a small set of separate tools rather than an integrated
 environment.
 
-- Using an IDE can obscure what lower-level tools are being used when a program is compiled, executed, tested, and debugged.
-- Using an IDE can confuse the separation between a program, the IDE, the language, and the different tools being used.
-- Being able to work at the command line with fundamental programming tools is important.
+- Using an IDE can obscure what lower-level tools are being used when a program
+  is compiled, executed, tested, and debugged.
+- Using an IDE can confuse the separation between a program, the IDE, the
+  language, and the different tools being used.
+- Being able to work at the command line with fundamental programming tools is
+  important.
 
 The minimum tools necessary to work in this mode are an editor, a Java
 compiler, a Java runtime environment, and a terminal/shell/command-line
@@ -144,28 +163,30 @@ level of tool integration that can feel like a simple IDE.
 
 #### Emacs and vi
  
-Emacs and vi are the old guard of text editors, each with its own legion of 
-devoted followers who keep the [editor war](https://en.wikipedia.org/wiki/Editor_war)
-coals smoldering to this day. This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi. 
-This is Auburn-Alabama, Michigan-Ohio State, Army-Navy. If one had oak trees, 
-the other would have poisoned them. Think I'm kidding or exaggerating? 
-[I'm not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
+Emacs and vi are the old guard of text editors, each with its own legion of
+devoted followers who keep the [editor
+war](https://en.wikipedia.org/wiki/Editor_war) coals smoldering to this day.
+This is Marvel-D.C., Hamilton-Burr, Coke-Pepsi.  This is Auburn-Alabama,
+Michigan-Ohio State, Army-Navy. If vi had oak trees, Emacs would have poisoned
+them. Think I'm kidding or exaggerating?  [I'm
+not.](https://www.emacswiki.org/emacs/ChurchOfEmacs)
 
-Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) 
-and vi (now [Vim](https://www.vim.org/)) are extremely powerful, 
-extremely stable, and simply excellent text editors. Anyone who considers 
-themselves a programmer or who wants to be one should give both a try, 
-and be able to at least write a 
-[Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in each.
+Hyperbole and drama aside, both [Emacs](https://www.gnu.org/software/emacs/) and
+vi (now [Vim](https://www.vim.org/)) are extremely powerful, extremely stable,
+and simply excellent text editors. Anyone who considers themselves a programmer
+or who wants to be one should give both a try, and be able to at least write a
+[Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in
+one of them.
 
 
 ### Command Line
 
-The [command line](https://en.wikipedia.org/wiki/Command-line_interface) 
-is a text-based interface to your computer's operating system. Terms such as 
-*command prompt*, *[terminal](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line/506628#506628)*, 
-*[shell](https://en.wikipedia.org/wiki/Shell_%28computing%29#Text_.28CLI.29_shells)*, 
-*shell prompt*, and others are often used interchangeably, but for our purposes 
+The [command line](https://en.wikipedia.org/wiki/Command-line_interface) is a
+text-based interface to your computer's operating system. Terms such as *command
+prompt*,
+*[terminal](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line/506628#506628)*,
+*[shell](https://en.wikipedia.org/wiki/Shell_%28computing%29#Text_.28CLI.29_shells)*,
+*shell prompt*, and others are often used interchangeably, but for our purposes
 I'll just use **command line**.
 
 Both [macOS](https://www.apple.com/macos/) and 
@@ -185,13 +206,19 @@ Here are two good resources for learning to work with the command line.
 - [https://programminghistorian.org/en/lessons/intro-to-bash](https://programminghistorian.org/en/lessons/intro-to-bash)
 - [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile) are very helpful if you work at the command line. Here's a good tutorial: [https://www.gnu.org/software/make/manual/html_node/Introduction.html](https://www.gnu.org/software/make/manual/html_node/Introduction.html).
+And finally, [makefiles](https://en.wikipedia.org/wiki/Makefile) are very
+helpful if you work at the command line. Here's a good tutorial:
+[https://www.gnu.org/software/make/manual/html_node/Introduction.html](https://www.gnu.org/software/make/manual/html_node/Introduction.html).
 
 ### Compiler and Runtime Environment
 
-The JDK includes commands to invoke the Java compiler and the Java runtime environment (JRE) from the command line. The compiler can be invoked with the `javac` command and the JRE can be invoked with the `java` command.
+The JDK includes commands to invoke the Java compiler and the Java runtime
+environment (JRE) from the command line. The compiler can be invoked with the
+`javac` command and the JRE can be invoked with the `java` command.
 
-Once the JDK is installed, you can compile and run the Java source code file `WarEagle.java` from the command line as follows. (The `$` character represents the command-line prompt.)
+Once the JDK is installed, you can compile and run the Java source code file
+`WarEagle.java` from the command line as follows. (The `$` character represents
+the command-line prompt.)
 
 ```bash
 $ javac WarEagle.java
@@ -200,17 +227,26 @@ $ java WarEagle
 
 ## Testing Framework - JUnit
 
-[JUnit](https://en.wikipedia.org/wiki/JUnit) is a framework for [unit testing](https://en.wikipedia.org/wiki/Unit_testing) software written in Java. Writing good test cases is an important skill to develop, and you are strongly encouraged to write JUnit test cases for all your assignments.
+[JUnit](https://en.wikipedia.org/wiki/JUnit) is a framework for [unit
+testing](https://en.wikipedia.org/wiki/Unit_testing) software written in Java.
+Writing good test cases is an important skill to develop, and you are strongly
+encouraged to write JUnit test cases for all your assignments.
 
-You can learn more about JUnit and install version 4.12 from [this link](https://junit.org/junit4/).
+You can learn more about JUnit and install version 4.12 from [this
+link](https://junit.org/junit4/).
 
 
 ## Source Control - Git
 
-If you want to get a head start on using a professional tool for backup, synchronization, and more, then you could explore the use of [git](https://git-scm.com/). This carries a steep learning curve and isn't necessary for this course so ... *caveat discipulus*.
+If you want to get a head start on using a professional tool for backup,
+synchronization, and more, then you could explore the use of
+[git](https://git-scm.com/). This carries a steep learning curve and isn't
+necessary for this course so ... *caveat discipulus*.
 
-If you use git you may also want to use a web-based code hosting service like [GitHub](https://github.com/). I support the use of hosting services, but all assignment-related code must be kept strictly in private repositories during the semester. Services such as GitHub, [BitBucket](https://bitbucket.org/product), and [GitLab](https://about.gitlab.com/) all offer free private repos for educational use.
-
-
-
+If you use git you may also want to use a web-based code hosting service like
+[GitHub](https://github.com/). I support the use of hosting services, but all
+assignment-related code must be kept strictly in private repositories during the
+semester. Services such as GitHub, [BitBucket](https://bitbucket.org/product),
+and [GitLab](https://about.gitlab.com/) all offer free private repos for
+educational use.
 
