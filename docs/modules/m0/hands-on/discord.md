@@ -23,8 +23,7 @@ everyone should follow when using the course Discord server.
    ```
 
 When you join the server, you will be placed in a limited Guest role. Once you
-react (e.g, thumbs up, smiley face, etc.) to the rules you will be upgraded to
-the Student role.
+react (thumbs-up) to the rules you will be upgraded to the Student role.
 
 To get started, just click on the following invitation link:
 [https://discord.gg/yaZhwXWDxj](https://discord.gg/yaZhwXWDxj).
