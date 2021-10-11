@@ -31,7 +31,7 @@ in this course start as opted in to pay for the content for the course. The
 discounted price you’ll be billed is $21.95 for the CloudLab access. If you want
 to opt out and not be charged, all you have to do is follow the instructions
 (see
-[https://www.aubookstore.com/t-txt_allaccessoptout1.aspx](https://www.aubookstore.com/t-txt_allaccessoptout1.aspx).
+[https://www.aubookstore.com/t-txt_allaccessoptout1.aspx](https://www.aubookstore.com/t-txt_allaccessoptout1.aspx)).
 You’ll lose access at the end of the first week, unless you’ve purchased it on
 your own.
 

@@ -12,7 +12,7 @@ worth taking the time to digest and, hopefully, put into practice.
 
 Welcome to the course, and War Eagle! 
 
-<img src="../../img/dh.jpg" width="100">
+<img src="../../../img/dh.jpg" width="100">
 
 > Dean Hendrix  
 > Associate Professor and Associate Department Chair  
