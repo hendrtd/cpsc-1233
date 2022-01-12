@@ -28,19 +28,17 @@ Here is the specific schedule for [Fall B
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon Oct 11 | Sun Oct 17    
-M1 | Mon Oct 18 | Sun Oct 24  
-M2 | Mon Oct 25 | Sun Oct 31  
-M3 | Mon Nov 1  | Sun Nov 7  
-M4 | Mon Nov 8  | Sun Nov 14  
-M5 | Mon Nov 15 | Sun Nov 21  
-M6 | Mon Nov 22 | Sun Nov 28  
-M7 | Mon Nov 28 | Sun Dec 5
+M0 | Mon 12 Jan | Sun 16 Jan      
+M1 | Mon 17 Jan | Sun 23 Jan  
+M2 | Mon 24 Jan | Sun 30 Jan  
+M3 | Mon 31 Jan | Sun 6 Feb  
+M4 | Mon 7 Feb  | Sun 13 Feb  
+M5 | Mon 14 Feb | Sun 20 Feb  
+M6 | Mon 21 Feb | Sun 27 Feb  
+M7 | Mon 28 Feb | Thu 3 Mar   
 
-The last official class day is Friday, December 3, so Module 7 is structured so
-that there is time to finish all work by that date. However, due dates for
-Module 7 and dates for the Final Exam and Lab Test 3 will be extended into the
-following week for those who would like a bit more time.
+The last official class day is Thursday, March 3, so Module 7 is structured so
+that there is time to finish all work by that date.
 
 # Module Structure
 
