@@ -38,8 +38,7 @@ your own.
 ## How do I pay?
 
 If you’re still opted in on May 24, then we’ll send the charge to your next
-ebill.  This will be labeled as the course on your ebill so you’ll know. You’ll
-get a reminder on January 18 to remind you about the deadline.
+ebill.  This will be labeled as the course on your ebill so you’ll know.
 
 ## What if I'm on scholarship?
 
