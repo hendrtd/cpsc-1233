@@ -23,22 +23,22 @@ The timeboxed organization of the course is as follows. Module 0 begins on the
 first day of classes for the term and ends on the first Sunday of the term.
 Each module 1-7 begins on a Monday and ends on the following Sunday. 
 
-Here is the specific schedule for [Fall B
-2021](http://online.auburn.edu/term_calendar).
+Here is the specific schedule for [Summer
+2022](http://online.auburn.edu/term_calendar).
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Mon 12 Jan | Sun 16 Jan      
-M1 | Mon 17 Jan | Sun 23 Jan  
-M2 | Mon 24 Jan | Sun 30 Jan  
-M3 | Mon 31 Jan | Sun 6 Feb  
-M4 | Mon 7 Feb  | Sun 13 Feb  
-M5 | Mon 14 Feb | Sun 20 Feb  
-M6 | Mon 21 Feb | Sun 27 Feb  
-M7 | Mon 28 Feb | Thu 3 Mar   
+M0 | Wed 18 May  | Sun 22 May         
+M1 | Mon 23 May  | Sun 29 May     
+M2 | Mon 30 May  | Sun 5 June    
+M3 | Mon 6 June  | Sun 12 June   
+M4 | Mon 13 June | Sun 19 June    
+M5 | Mon 20 June | Sun 26 June  
+M6 | Mon 27 June | Sun 3 July  
+M7 | Mon 4 July  | Sun 10 July
 
-The last official class day is Thursday, March 3, so Module 7 is structured so
-that there is time to finish all work by that date.
+The last official class day for the term is Tuesday, July 12 and Module 7 is
+structured so that all work in the module can be completed through that date.
 
 # Module Structure
 
