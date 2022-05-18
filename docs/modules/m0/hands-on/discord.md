@@ -1,31 +1,15 @@
 # Getting Started With Discord
 
-This course uses [**Discord**](https://discord.com/brand-new) to facilitate
-communication, community, engagement, and course Q&A. Here are a few rules that
-everyone should follow when using the course Discord server.
+This course uses [Discord](https://discord.com/) as a highly interactive course
+forum. Discord provides an efficient way to ask and answer questions, discuss
+course topics (and off-course topics), and - most importantly - develop a sense
+of **community** in the class.
 
-1. Be polite, helpful, and constructive.
+To get started:
 
-2. Don't post solutions to assignments, either before or after the assignment is
-   due.
-
-3. You can post basic approaches that you take to a problem, and you may want to
-   consider using ||spoiler tags|| (double vertical bars).
-
-4. Don't post your code and ask "Why doesn't this work?" Instead, describe your
-   problem, what you have done in an attempt to solve it, and - when necessary -
-   post small (5-7 lines) pseudocode snippets like this:
-
-   ```java
-   if (some condition is true) {
-       do this;
-   }
-   ```
-
-When you join the server, you will be placed in a limited Guest role. Once you
-react (thumbs-up) to the rules you will be upgraded to the Student role.
-
-To get started, just click on the following invitation link: 
-
-- [https://discord.gg/DFDpAuBe](https://discord.gg/DFDpAuBe)
+1. Click the following link to join the course Discord server:
+   [https://discord.gg/DFDpAuBe](https://discord.gg/DFDpAuBe)
+1. Read the post in the `#rules` channel and acknowledge your agreement with a
+   `:thumbsup:` reaction to the indicated message.
+1. Explore the different channels and start engaging! 
 
