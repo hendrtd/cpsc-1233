@@ -186,14 +186,12 @@ in the following categories.
 
 - **Exams** (40%): There will be three exams in the course, including the final
   exam. Dates for the first two exams will be set and announced at least one
-  week in advance. All three exams will be administered online using the
-  Honorlock proctoring system. Missed exams are assigned a score of zero points.
+  week in advance. Missed exams are assigned a score of zero points.
 
 - **Lab Tests** (25%): There will be three programming-based tests in the
   course. Dates for each will be set and announced at least one week in advance.
-  All three tests will be administered online using the Honorlock proctoring
-  system. Lab Test grades will be based on the percentage of test cases passed
-  on Vocareum. Passing zero test cases will result in a grade of zero points.
+  Lab Test grades will be based on the percentage of test cases passed on
+  Vocareum. Passing zero test cases will result in a grade of zero points.
   Missed lab tests are assigned a score of zero points.
 
 - **Assignments** (30%): There will be seven assignments designed to both
