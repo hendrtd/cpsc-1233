@@ -28,14 +28,14 @@ Here is the specific schedule for [Summer
 
 Module | Begin | End
 ------ | ----- | ---
-M0 | Wed 18 May  | Sun 22 May         
-M1 | Mon 23 May  | Sun 29 May     
-M2 | Mon 30 May  | Sun 5 June    
-M3 | Mon 6 June  | Sun 12 June   
-M4 | Mon 13 June | Sun 19 June    
-M5 | Mon 20 June | Sun 26 June  
-M6 | Mon 27 June | Sun 3 July  
-M7 | Mon 4 July  | Sun 10 July
+M0 | Mon 10/10 | Sun 10/16
+M1 | Mon 10/17 | Sun 10/23
+M2 | Mon 10/24 | Sun 10/30
+M3 | Mon 10/31 | Sun 11/6
+M4 | Mon 11/7  | Sun 11/13
+M5 | Mon 11/14 | Sun 11/20
+M6 | Mon 11/21 | Sun 11/27
+M7 | Mon 11/28 | Fri 12/2
 
 The last official class day for the term is Tuesday, July 12 and Module 7 is
 structured so that all work in the module can be completed through that date.
