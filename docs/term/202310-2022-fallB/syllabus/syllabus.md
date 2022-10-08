@@ -279,7 +279,7 @@ Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedg
 5     | Mon 11/7  - Sun 11/13    | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
 6     | Mon 11/14 - Sun 11/20    | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
 7     | Mon 11/21 - Sun 11/27    | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-8     | Mon 11/28 - Sun 12/2     | M7     | H A E T      |   | 6 | 24 | 1, 4  
+8     | Mon 11/28 - Fri 12/2     | M7     | H A E T      |   | 6 | 24 | 1, 4  
 
 
 ---
