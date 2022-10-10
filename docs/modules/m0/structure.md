@@ -37,7 +37,7 @@ M5 | Mon 11/14 | Sun 11/20
 M6 | Mon 11/21 | Sun 11/27
 M7 | Mon 11/28 | Fri 12/2
 
-The last official class day for the term is Tuesday, July 12 and Module 7 is
+The last official class day for the term is Friday, December 2 and Module 7 is
 structured so that all work in the module can be completed through that date.
 
 # Module Structure
