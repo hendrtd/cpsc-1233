@@ -1,9 +1,9 @@
 
 ---
 
-# CPSC 1230 Data Structures <br> Spring A 2023 Course Syllabus
+# CPSC 1230 Data Structures <br> Fall B 2022 Course Syllabus
 
-*Published: January 10, 2023*
+*Published: October 8, 2022*
 
 ---
 
@@ -104,10 +104,8 @@ supplement the course notes.
 ## Vocareum
 
 Vocareum is a cloud-based lab environment in which you will submit programming
-assignments and complete programming tests. The fee for using Vocareum this
-semester will be charged to your eBill via Auburn's [All
-Access](https://www.aubookstore.com/t-Textbook_AllAccess.aspx) program. Further
-instructions are provided in a Canvas announcement.
+assignments and complete programming tests. There is no fee for students using
+Vocareum this term.
 
 
 ## Discord
@@ -267,22 +265,21 @@ Module 0 runs from the first day of classes through the first Sunday of the
 term, Module 1 through Module 7 are each allocated one week, with each beginning
 on a Monday and ending on the following Sunday.
 
-Below is the weekly schedule for [Spring A
-2023](http://online.auburn.edu/term_calendar).  Note that course work continues
+Below is the weekly schedule for [Fall B
+2022](http://online.auburn.edu/term_calendar).  Note that course work continues
 through all days of the term, including those marked as holidays.
 
 
 Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
 ----  | -----          | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Wed 01/11 - Sun 01/15 | M0     | H            |        |         |       |       
-2     | Mon 01/16 - Sun 01/22 | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-3     | Mon 01/23 - Sun 01/29 | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-4     | Mon 01/30 - Sun 02/05 | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-5     | Mon 02/06 - Sun 02/1 | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-6     | Mon 02/13 - Sun 02/19 | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-7     | Mon 02/20 - Sun 02/26 | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-8     | Mon 02/27 - Fri 03/03 | M7     | H A E T      |   | 6 | 24 | 1, 4  
-
+1     | Mon 10/10 - Sun 10/16    | M0     | H            |        |         |       |       
+2     | Mon 10/17 - Sun 10/23    | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+3     | Mon 10/24 - Sun 10/30    | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+4     | Mon 10/31 - Sun 11/6     | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+5     | Mon 11/7  - Sun 11/13    | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+6     | Mon 11/14 - Sun 11/20    | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+7     | Mon 11/21 - Sun 11/27    | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+8     | Mon 11/28 - Fri 12/2     | M7     | H A E T      |   | 6 | 24 | 1, 4  
 
 
 ---
@@ -292,24 +289,28 @@ Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedg
 
 ## Attendance
 
-The [AU Policy on Class
-Attendance](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassAttendance.pdf)
-is strictly observed in this course. Refer to the Instructional Mode section of
-this syllabus for a description of all course elements that require attendance.
-Absences are considered unexcused unless the student specifically obtains an
-excused absence from the instructor (see policy below).
-
-Note that *attendance* is only one part of *engagement*. You are expected to
+Since this course is being conducted in Online Asynchronous mode, "engagement"
+better captures what is expected rather than "attendance." You are expected to
 fully engage in this course and take responsibility for your learning
 experience. Lack of engagement almost always leads to poor course performance.
+
+If illness or an emergency situation prevents you from being able to
+participate in the course, please contact me in advance of affected deadlines
+if possible. See other syllabus policies regarding extended absences, late
+submissions, and make-ups.
 
 
 ## Excused Absences
 
-To have an absence excused you must first obtain an Excused Absence Memo from
-Engineering Student Services (ESS) for any absence that falls into categories 1
-through 6 in the AU Policy on Class Attendance. You should contact the course
-instructor directly for other absences.
+To have a covid-related absence excused you must provide the course instructor
+with an official email from the AU COVID-19 Resource Center (CRC). This email
+can only be obtained by filing a [student self-report
+form](http://auburn.edu/covid-resource-center/reporting/) with the CRC.
+
+To have a non-covid absence excused you must first obtain an Excused Absence
+Memo from Engineering Student Services (ESS) for any absence that falls into
+categories 1 through 6 in the AU Policy on Class Attendance. You should contact
+the course instructor directly for other absences.
 
 > Engineering Student Services provides excused absence memos to students who
 > present verifiable documentation related to university excused absences.  The
@@ -336,7 +337,7 @@ A missed exam or test can only be made up for excused absences (see policy).
 Students must contact the instructor **within 48 hours** from the time that the
 exam or test was given or the exam or test score will remain zero. The makeup
 schedule is determined by the instructor and will need to be done within five
-business days from the time that the exam or test was given. 
+business days from the time that the exam or test was given.  
 
 
 ## Late Assignment Submission
