@@ -25,20 +25,16 @@ Each module 1-7 begins on a Monday and ends on the following Sunday.
 
 Here is the specific schedule for [this term](http://online.auburn.edu/term_calendar).
 
-Module | Dates   
------- | -----   
-M0 | Wed 01/11 - Sun 01/15  
-M1 | Mon 01/16 - Sun 01/22  
-M2 | Mon 01/23 - Sun 01/29  
-M3 | Mon 01/30 - Sun 02/05  
-M4 | Mon 02/06 - Sun 02/12   
-M5 | Mon 02/13 - Sun 02/19  
-M6 | Mon 02/20 - Sun 02/26  
-M7 | Mon 02/27 - Fri 03/03  
-
-The University's academic calendar is structured such that Module 7 typically
-has fewer days than the other modules, so the content in Module 7 has been
-designed to ensure that the module work can be completed by the end date.
+Module | Dates                   | Duration 
+------ | ----------------------- | --------   
+M0     | Wed 17 May - Sun 21 May | (5 days)  
+M1     | Mon 22 May - Sun 28 May | (7 days)  
+M2     | Mon 29 May - Sun 04 Jun | (7 days)  
+M3     | Mon 05 Jun - Sun 11 Jun | (7 days)  
+M4     | Mon 12 Jun - Sun 18 Jun | (7 days)  
+M5     | Mon 19 Sun - Sun 25 Jun | (7 days)  
+M6     | Mon 26 Jun - Sun 02 Jul | (7 days)  
+M7     | Mon 03 Jul - Tue 11 Jul | (9 days)  
 
 
 # Module Structure
