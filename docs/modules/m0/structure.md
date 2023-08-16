@@ -34,7 +34,7 @@ M3     | Mon 04 Sep - Sun 10 Sep | (7 days)
 M4     | Mon 11 Sep - Sun 17 Sep | (7 days)  
 M5     | Mon 18 Sep - Sun 24 Sep | (7 days)  
 M6     | Mon 25 Sep - Sun 01 Oct | (7 days)  
-M7     | Mon 02 Oct - Tue 06 Oct | (9 days)  
+M7     | Mon 02 Oct - Tue 06 Oct | (5 days)  
 
 
 # Module Structure
