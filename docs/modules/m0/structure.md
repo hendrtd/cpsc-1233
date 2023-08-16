@@ -27,14 +27,14 @@ Here is the specific schedule for [this term](http://online.auburn.edu/term_cale
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Wed 17 May - Sun 21 May | (5 days)  
-M1     | Mon 22 May - Sun 28 May | (7 days)  
-M2     | Mon 29 May - Sun 04 Jun | (7 days)  
-M3     | Mon 05 Jun - Sun 11 Jun | (7 days)  
-M4     | Mon 12 Jun - Sun 18 Jun | (7 days)  
-M5     | Mon 19 Sun - Sun 25 Jun | (7 days)  
-M6     | Mon 26 Jun - Sun 02 Jul | (7 days)  
-M7     | Mon 03 Jul - Tue 11 Jul | (9 days)  
+M0     | Wed 16 Aug - Sun 20 Aug | (5 days)  
+M1     | Mon 21 Aug - Sun 27 Aug | (7 days)  
+M2     | Mon 28 Aug - Sun 03 Sep | (7 days)  
+M3     | Mon 04 Sep - Sun 10 Sep | (7 days)  
+M4     | Mon 11 Sep - Sun 17 Sep | (7 days)  
+M5     | Mon 18 Sep - Sun 24 Sep | (7 days)  
+M6     | Mon 25 Sep - Sun 01 Oct | (7 days)  
+M7     | Mon 02 Oct - Tue 06 Oct | (9 days)  
 
 
 # Module Structure
