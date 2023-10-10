@@ -27,14 +27,17 @@ Here is the specific schedule for [this term](http://online.auburn.edu/term_cale
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Wed 16 Aug - Sun 20 Aug | (5 days)  
-M1     | Mon 21 Aug - Sun 27 Aug | (7 days)  
-M2     | Mon 28 Aug - Sun 03 Sep | (7 days)  
-M3     | Mon 04 Sep - Sun 10 Sep | (7 days)  
-M4     | Mon 11 Sep - Sun 17 Sep | (7 days)  
-M5     | Mon 18 Sep - Sun 24 Sep | (7 days)  
-M6     | Mon 25 Sep - Sun 01 Oct | (7 days)  
-M7     | Mon 02 Oct - Tue 06 Oct | (5 days)  
+M0     | Wed 11 Oct - Sun 15 Oct | (5 days)  
+M1     | Mon 16 Oct - Sun 22 Oct | (7 days)  
+M2     | Mon 23 Oct - Sun 29 Oct | (7 days)  
+M3     | Mon 30 Oct - Sun 05 Nov | (7 days)  
+M4     | Mon 06 Nov - Sun 12 Nov | (7 days)  
+M5     | Mon 13 Nov - Sun 19 Nov | (7 days)  
+M6     | Mon 20 Nov - Sun 26 Nov | (7 days)  
+M7     | Mon 27 Nov - Fri 01 Dec | (5 days)  
+
+^ No holidays are observed in CSPC courses
+
 
 
 # Module Structure
