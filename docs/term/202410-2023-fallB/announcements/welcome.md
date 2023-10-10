@@ -1,5 +1,5 @@
 
-# Welcome to CPSC 1230 Fall A 2023!
+# Welcome to CPSC 1230 Fall B 2023!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's one of my favorite
