@@ -1,9 +1,9 @@
 
 ---
 
-# CPSC 1230 Data Structures <br> Spring A 2024 Course Syllabus
+# CPSC 1230 Data Structures <br> Spring B 2024 Course Syllabus
 
-*Published: January 9, 2024*
+*Published: March 5, 2024*
 
 ---
 
@@ -274,14 +274,14 @@ through all days of the term, including those marked as holidays.
 
 Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
 ----  | -----          | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Wed 10 Jan - Sun 14 Jan | M0     | H            |        |         |       |       
-2     | Mon 15 Jan - Sun 21 Jan | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-3     | Mon 22 Jan - Sun 28 Jan | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-4     | Mon 29 Jan - Sun 04 Feb | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-5     | Mon 05 Feb - Sun 11 Feb | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-6     | Mon 12 Feb - Sun 18 Feb | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-7     | Mon 19 Feb - Sun 25 Feb | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-8     | Mon 26 Feb - Fri 01 Mar | M7     | H A E T      |   | 6 | 24 | 1, 4  
+1     | Wed 06 Mar - Sun 10 Mar | M0     | H            |        |         |       |       
+2     | Mon 11 Mar - Sun 17 Mar | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+3     | Mon 18 Mar - Sun 24 Mar | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+4     | Mon 25 Mar - Sun 31 Mar | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+5     | Mon 01 Apr - Sun 07 Apr | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+6     | Mon 08 Apr - Sun 14 Apr | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+7     | Mon 15 Apr - Sun 21 Apr | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+8     | Mon 22 Apr - Fri 26 Apr | M7     | H A E T      |   | 6 | 24 | 1, 4  
 
 
 
@@ -306,29 +306,17 @@ experience. Lack of engagement almost always leads to poor course performance.
 
 ## Excused Absences
 
-To have an absence excused you must first obtain an Excused Absence Memo from
-Engineering Student Services (ESS) for any absence that falls into categories 1
-through 6 in the AU Policy on Class Attendance. You should contact the course
-instructor directly for other absences.
+To have an absence excused you must first obtain an **Excused Absence Memo**
+from Engineering Student Services (ESS) for any absence that falls into
+categories 1 through 6 in the AU Policy on Class Attendance. You should contact
+the course instructor directly for other absences.
 
-> Engineering Student Services provides excused absence memos to students who
-> present verifiable documentation related to university excused absences.  The
-> steps for obtaining an excused absence memo are as follows:
->
-> 1. The student submits the request form using this link:
->    [https://aub.ie/EngAbsence](https://aub.ie/EngAbsence)
->    - Students submit documentation of the reason for the absence.
->    - Students must read and acknowledge the excused absence policy.
->
-> 1. The ESS office staff processes the requests and verifies authenticity of
->    documentation provided by student, as well as the dates of the absence(s).
->
-> 1. Assistant Dean determines if the documentation meets the standard for a
->    university excused absence or if the documentation warrants consideration
->    by the professor.
->
-> 1. An official memo is sent directly to professors via email regarding the
->    student’s absence
+To obtain an Excused Absence Memo from ESS, make sure you have all the
+documentation you will need to upload, and then submit your request via the
+`aub.ie` link below.
+
+- **[https://aub.ie/EngAbsence](https://aub.ie/EngAbsence)**.
+
 
 ## Exam and Test Makeup
 
@@ -447,27 +435,6 @@ during the first week of classes, or as soon as possible if accommodations are
 immediately needed. If you need accommodations but have not established them,
 make an appointment with the Office of Accessibility, 1228 Haley Center,
 334-844-2096.
-
-
-## Diversity and Inclusion Statement
-
-It is my intent that students from all diverse backgrounds and perspectives be
-well served by this course, that students’ learning needs be addressed both in
-and out of class, and that the diversity that students bring to this class be
-viewed as a resource, strength, and benefit. It is my intent to present
-materials and activities that are respectful of diversity: gender, religion,
-sexuality, disability, age, socioeconomic status, veteran status, ethnicity,
-race, and culture. All students in this course are expected to respect their
-fellow classmates and actively participate in fostering an inclusive learning
-environment. If you experience anything in this class that makes you feel
-uncomfortable, please bring it to my attention and we will formulate a
-response. If you would prefer to remain anonymous you may complete a 
-[Bias Incident Report](http://studentaffairs.auburn.edu/bert/submit-a-report-of-bias/) 
-which will maintain your confidentiality.
-
-Your suggestions are encouraged and appreciated. Please let me know ways to
-improve the effectiveness of the course for you personally or for other
-students or student groups.
 
 
 ## Classroom Behavior
