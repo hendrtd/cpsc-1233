@@ -4,9 +4,9 @@ You will access Vocareum **through Canvas** by clicking on the "Load in a new
 window" button at the bottom of a graded item that uses Vocareum. The first
 time that you access Vocareum (in Module 0), you will need to enter the
 **access code** provided to you by the AU All Access program via an email from
-`noreply@auburn.edu`. This email is sent the day before classes, and could be
-automatically  moved in to your Junk folder. You will only need the access code
-the first time you use Vocareum.
+`noreply@auburn.edu`. This email is sent the day before classes began for the
+full semester, and could be automatically  moved in to your Junk folder. You
+will only need the access code the first time you use Vocareum.
 
 # Paying for Vocareum - AU All Access
 
