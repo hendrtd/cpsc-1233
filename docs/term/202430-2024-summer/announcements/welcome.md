@@ -1,4 +1,4 @@
-# Welcome to CPSC 1230 Spring B 2024!
+# Welcome to CPSC 1230 Summer 2024!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's one of my favorite
