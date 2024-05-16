@@ -34,7 +34,7 @@ M3     | Mon 03 Jun - Sun 09 Jun | (7 days)
 M4     | Mon 10 Jun - Sun 16 Jun | (7 days)  
 M5     | Mon 17 Jun - Sun 23 Jun | (7 days)  
 M6     | Mon 24 Jun - Sun 30 Jun | (7 days)  
-M7     | Mon 01 Jul - Tue 09 Jul | (8 days)  
+M7     | Mon 01 Jul - Tue 09 Jul | (9 days)  
 
 * No holidays are observed in CSPC courses
 
