@@ -1,7 +1,7 @@
 # Final Exam and Lab Test 3
 
-The Final Exam and Lab Test 3 will be open from **12:01 AM CT Monday, April 22
-until 11:59 PM CT Friday, April 26**. Each has a 75-minute time limit, and you
+The Final Exam and Lab Test 3 will be open from **12:01 AM CT Friday July 5
+until 11:59 PM CT Tuesday, July 9**. Each has a 75-minute time limit, and you
 can can each in any 75-minute time period that begins no earlier than the
 opening time and ends no later than the closing time. You must complete each in
 one sitting, and you may not use any outside resources on either.

@@ -1,7 +1,7 @@
 # Exam 2 and Lab Test 2
 
-Exam 2 and Lab Test 2 will be open from **12:01 AM CT Friday, April 5 until
-11:59 PM CT Monday, April 8**. Each has a 75-minute time limit, and you can can
+Exam 2 and Lab Test 2 will be open from **12:01 AM CT Friday, June 14 until
+11:59 PM CT Monday, June 17**. Each has a 75-minute time limit, and you can can
 each in any 75-minute time period that begins no earlier than the opening time
 and ends no later than the closing time. You must complete each in one sitting,
 and you may not use any outside resources on either.
