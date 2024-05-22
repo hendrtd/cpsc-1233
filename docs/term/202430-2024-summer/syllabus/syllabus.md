@@ -157,7 +157,7 @@ Auburn, AL 36849
 +1 334 844 6305  
 `dean.hendrix@auburn.edu`  
 <http://eng.auburn.edu/csse>  
-**Office Hours:** By appointment
+**Office Hours:** [Appointment Booking Link](https://outlook-sdf.office.com/bookwithme/user/2eefe8fc5c2544499ddf2c1f2791eeb4@auburn.edu/meetingtype/IATRBQHo7UKSYrQxzjkahw2?bookingcode=7b07b5e7-99b4-4e47-a627-d03944800249&anonymous&ep=mlink)
 
 
 ## Teaching Assistant
