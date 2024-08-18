@@ -149,7 +149,7 @@ be provided in Canvas during the first week of the course.
 ### Dr. Dean Hendrix 
 
 Associate Dean for Undergraduate Studies & Program Assessment  
-Samuel Ginn College of Engineering
+Samuel Ginn College of Engineering  
 Associate Professor of Computer Science & Software Engineering  
 1301F Shelby Center  
 Auburn University  
