@@ -149,15 +149,15 @@ be provided in Canvas during the first week of the course.
 ### Dr. Dean Hendrix 
 
 Associate Dean for Undergraduate Studies & Program Assessment  
-Samuel Ginn College of Engineering  
 Associate Professor of Computer Science & Software Engineering  
+Samuel Ginn College of Engineering  
 1301F Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
 +1 334 844 6305  
 `dean.hendrix@auburn.edu`  
-<http://eng.auburn.edu/csse>  
+<http://eng.auburn.edu/>  
 **Office Hours:** By appointment
 
 
