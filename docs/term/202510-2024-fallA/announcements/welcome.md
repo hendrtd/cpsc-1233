@@ -1,4 +1,4 @@
-# Welcome to CPSC 1230 Summer 2024!
+# Welcome to CPSC 1230 Fall A 2024!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's one of my favorite
@@ -14,10 +14,8 @@ Welcome to the course, and War Eagle!
 <img src="../../../img/rags.jpg" width="100">
 
 > Dean Hendrix  
-> Associate Professor and Associate Department Chair  
-> Director, CSSE Undergraduate Programs  
-> Department of Computer Science and Software Engineering  
-> Director, Engineering Global Programs  
+> Associate Dean for Undergraduate Studies & Program Assessment  
+> Associate Professor of Computer Science & Software Engineering  
 > Samuel Ginn College of Engineering  
 > Auburn University  
 > +1 (334) 844-6305  
