@@ -7,7 +7,7 @@ linked to your Canvas account so that grades can be passed from Vocareum to
 Canvas. 
 
 The fee for using Vocareum has been waived this semester. If you are prompted
-to pay for Vocareum access, notify your instruction and do not make a payment.
+to pay for Vocareum access, notify your instructor and do not make a payment.
 
 <!--
 You will access Vocareum **through Canvas** by clicking on the "Load in a new
