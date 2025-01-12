@@ -1,9 +1,9 @@
 
 ---
 
-# CPSC 1230 Data Structures <br> Fall B 2024 Course Syllabus
+# CPSC 1230 Data Structures <br> Spring A 2025 Course Syllabus
 
-*Published: October 12, 2024*
+*Published: January 12, 2025*
 
 ---
 
@@ -165,12 +165,12 @@ Auburn, AL 36849
 
 ### Nkhil Sai Raishetty
 
-MS Student, Data Engineering
-Department of Computer Science and Software Engineering
-Samuel Ginn College of Engineering
-Auburn University
-`nzr0066@auburn.edu`
-**Office Hours:** By appointment
+MS Student, Data Engineering  
+Department of Computer Science and Software Engineering  
+Samuel Ginn College of Engineering  
+Auburn University  
+`nzr0066@auburn.edu`  
+**Office Hours:** By appointment  
 
 
 ---
