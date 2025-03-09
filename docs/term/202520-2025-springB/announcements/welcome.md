@@ -1,4 +1,4 @@
-# Welcome to CPSC 1230 Spring A 2025!
+# Welcome to CPSC 1230 Spring B 2025!
 
 This is a course in data structures and algorithms, and is one of the most
 important foundational courses in the curriculum. It's one of my favorite
