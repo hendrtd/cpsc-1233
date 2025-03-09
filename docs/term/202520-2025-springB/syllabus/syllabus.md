@@ -1,9 +1,9 @@
 
 ---
 
-# CPSC 1230 Data Structures <br> Spring A 2025 Course Syllabus
+# CPSC 1230 Data Structures <br> Spring B 2025 Course Syllabus
 
-*Published: January 12, 2025*
+*Published: March 9, 2025*
 
 ---
 
@@ -268,15 +268,14 @@ through all days of the term, including those marked as holidays.
 
 Week  | Dates          | Module | Graded Items | Bailey | Shaffer | Weiss | Sedgewick
 ----  | -----          | ------ | ------------ | ------ | ------- | ----- | ---------
-1     | Mon 13 Jan - Sun 19 Jan | M0     | H            |        |         |       |       
-2     | Mon 20 Jan - Sun 26 Jan | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
-3     | Mon 27 Jan - Sun 02 Feb | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
-4     | Mon 03 Feb - Sun 09 Feb | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
-5     | Mon 10 Feb - Sun 16 Feb | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
-6     | Mon 17 Feb - Sun 23 Feb | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
-7     | Mon 24 Feb - Sun 02 Mar | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
-8     | Mon 03 Mar - Wed 05 Mar | M7     | H A E T      |   | 6 | 24 | 1, 4  
-
+1     | Mon 10 Mar - Sun 16 Mar | M0     | H            |        |         |       |       
+2     | Mon 17 Mar - Sun 23 Mar | M1     | H A          | 2, 4, 8, 11 | 1 | 1-4, 6 | 3, 4, 12 
+3     | Mon 24 Mar - Sun 30 Mar | M2     | H A E T      | 5, 6 | 2, 3, 7 | 5, 8 | 2, 6-8
+4     | Mon 31 Mar - Sun 06 Apr | M3     | H A          | 3, 7, 9 | 4 | 6, 17 | 3, 4 
+5     | Mon 07 Apr - Sun 13 Apr | M4     | H A E T      | 5, 9-11 | 2, 4 | 6, 7, 15-17 | 4, 5 
+6     | Mon 14 Apr - Sun 20 Apr | M5     | H A          | 12, 13 | 5, 10, 13 | 6, 18, 19, 21 | 5, 9, 12, 13 
+7     | Mon 21 Apr - Sun 27 Apr | M6     | H A          | 15, 16 | 9, 11 | 6, 14, 20 | 1, 14
+8     | Mon 28 Apr - Wed 30 Apr | M7     | H A E T      |   | 6 | 24 | 1, 4  
 
 
 ---
