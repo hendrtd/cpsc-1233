@@ -27,14 +27,14 @@ Here is the specific schedule for [this term](http://online.auburn.edu/term_cale
 
 Module | Dates                   | Duration 
 ------ | ----------------------- | --------   
-M0     | Mon 13 Jan - Sun 19 Jan | (7 days)  
-M1     | Mon 20 Jan - Sun 26 Jan | (7 days)  
-M2     | Mon 27 Jan - Sun 02 Feb | (7 days)  
-M3     | Mon 03 Feb - Sun 09 Feb | (7 days)  
-M4     | Mon 10 Feb - Sun 16 Feb | (7 days)  
-M5     | Mon 17 Feb - Sun 23 Feb | (7 days)  
-M6     | Mon 24 Feb - Sun 02 Mar | (7 days)  
-M7     | Mon 03 Mar - Wed 05 Mar | (3 days)  
+M0     | Mon 10 Mar - Sun 16 Mar | (7 days)  
+M1     | Mon 17 Mar - Sun 23 Mar | (7 days)  
+M2     | Mon 24 Mar - Sun 30 Mar | (7 days)  
+M3     | Mon 31 Mar - Sun 06 Apr | (7 days)  
+M4     | Mon 07 Apr - Sun 13 Apr | (7 days)  
+M5     | Mon 14 Apr - Sun 20 Apr | (7 days)  
+M6     | Mon 21 Apr - Sun 27 Apr | (7 days)  
+M7     | Mon 28 Apr - Wed 30 Apr | (3 days)  
 
 * No holidays are observed in CSPC courses
 
