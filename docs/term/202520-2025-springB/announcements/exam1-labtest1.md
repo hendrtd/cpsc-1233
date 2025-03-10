@@ -1,7 +1,7 @@
 # Exam 1 and Lab Test 1
 
-Exam 1 and Lab Test 1 will be open from **12:01 AM CT Friday, January 31 until
-11:59 PM CT Monday, February 3**. Each has a 75-minute time limit, and you can
+Exam 1 and Lab Test 1 will be open from **12:01 AM CT Friday, March 28 until
+11:59 PM CT Monday, March 31**. Each has a 75-minute time limit, and you can
 can each in any 75-minute time period that begins no earlier than the opening
 time and ends no later than the closing time. You must complete each in one
 sitting, and you may not use any outside resources on either.
